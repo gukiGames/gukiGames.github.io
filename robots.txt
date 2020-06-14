@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: 
+Allow: /
+
+Sitemap: https://gukigames.github.io/sitemap.xml
